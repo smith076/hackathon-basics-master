@@ -1,0 +1,22 @@
+[
+    {
+        "option":"Dropdown 1",
+        "value":"val1"
+    },
+    {
+        "option":"Dropdown 2",
+        "value":"val2"
+    },
+    {
+        "option":"Dropdown 3",
+        "value":"val3"
+    },
+    {
+        "option":"Dropdown 4",
+        "value":"val4"
+    },
+    {
+        "option":"Dropdown 5",
+        "value":"val5"
+    }
+]
